@@ -1,3 +1,0 @@
-git add .                  for adding everything
-git commit -m "..."        for taking snapshot with the description "..."
-git push                   for "pushin" files onto the web from PC
