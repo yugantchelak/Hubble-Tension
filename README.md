@@ -71,7 +71,7 @@ it against CAMB.
 - `CMB_ell_vs_Cl_Dl.ipynb`: why $D_\ell$ rather than $C_\ell$
 - `CMB_camb.ipynb`: how the peaks move with each parameter
 - `CMB_MCMC.ipynb`, `CMB_MCMC_adaptive.ipynb`: fit $H_0$, $\Omega_b h^2$, $\Omega_c h^2$, $A_s$, $n_s$
-- `CMB_MCMC_wCDM_adaptive.ipynb`: same with $w$ free
+- `CMB_MCMC_wCDM.ipynb`: same with $w$ free
 - `CMB_pie_chart.ipynb`: energy budget
 - `Plancks Data/`, `Saved Data/`
 
